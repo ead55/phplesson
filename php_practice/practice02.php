@@ -25,7 +25,7 @@ echo $total;
 for ($i = 1; $i <= 10000; $i++) {
   $total += $i;
 }
-echo $total . "\n";
+echo $total. "\n";
 
 
 /*
